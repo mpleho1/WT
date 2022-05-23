@@ -1,0 +1,27 @@
+* {
+    background-color: antiquewhite;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.inputex{
+background-color: white;
+}
+#ime{
+    width:6cm;
+
+}
+#prezime{
+    width:5.3cm;
+}
+
+#index{
+    width:4.7cm;
+    }
+#grupa{
+    width:5.65cm;
+}
+
+#dodaj{
+    width:22.5%;
+    background-color: burlywood;
+}

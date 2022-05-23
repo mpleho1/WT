@@ -1,0 +1,30 @@
+
+body{
+	background-color: lightcoral;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+form#form{
+	background-color: whitesmoke;
+	row-gap: 20px;
+	margin-top: 20px;column-gap: 5%;
+}
+
+
+#form2{
+	background-color: whitesmoke;
+	padding-bottom: 7%;
+}
+
+#posalji {
+    background-color: pink;
+    width: 35%;
+    margin-left: 15%;
+    margin-top: 3%;
+	
+}
+
+#potvrdi{
+	background-color: pink;
+}

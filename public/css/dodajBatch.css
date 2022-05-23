@@ -1,0 +1,27 @@
+*{
+    background-color: antiquewhite;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#batch{
+    margin:10px; 
+   width:400px;
+   height:200px;
+   background-color: white;
+   float:left;
+}
+
+#dodaj{
+    position: absolute;
+background-color: burlywood;
+width:26%;
+top:-130px; left:20px;
+margin-top:400px;
+
+}
+#odgovorServera{
+   position: absolute;
+    top:-100px; left:20px;
+    margin-top:450px;
+    float:left;
+}
